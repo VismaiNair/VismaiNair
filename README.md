@@ -18,7 +18,8 @@ Here's some things I contribute to:
   * Svelte
 * I'm Learning:
   * PostgreSQL
-  * Lit
+  * C++
+  * Go
 
 ```
 while (isAlive == true) {
