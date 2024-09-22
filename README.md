@@ -1,4 +1,5 @@
-# Hi, I'm Vismai👋
+# Hi, I'm Vismai (/'vɪs.mɑɪ/)👋
+
 I'm a middle-school student based in the western part of the US, and, on the side, am creating an AI-powered math tutor for kids.
 
 ## Open-Source Contribution
@@ -15,10 +16,9 @@ Here's some things I contribute to:
   * JavaScript (Frontend JS, Node.JS, and TypeScript)
 * JavaScript Frameworks:
   * Svelte
-  * Express
 * I'm Learning:
   * PostgreSQL
-  * C++
+  * Dart
 
 ```
 while (isAlive == true) {
