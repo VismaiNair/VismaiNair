@@ -1,4 +1,4 @@
-# Hi, I'm Vismai Nair
+# Hi, I'm Vismai👋
 I'm a middle-school student based in the western part of the US, and, on the side, am creating an AI-powered math tutor for kids.
 
 ## Open-Source Contribution
