@@ -14,11 +14,13 @@ Here's some things I contribute to:
   * HTML & XML
   * SCSS & CSS
   * JavaScript (Frontend JS, Node.JS, and TypeScript)
-* JavaScript Frameworks:
-  * Svelte
 * I'm Learning:
-  * PostgreSQL
-  * Dart
+  * How to use Material Web Components
+  * Svelte
+## Links
+* [Khan Academy Profile](https://khanacademy.org/profile/TheBlueBoggle/)
+* [Replit (now inactive)](https://replit.com/@ProximaAtlas/)
+
 
 ```
 while (isAlive == True) {
@@ -26,6 +28,8 @@ while (isAlive == True) {
   learn();
 }
 ```
+
+
 
 
 
