@@ -12,6 +12,7 @@ Here's some things I contribute to:
 ## Links
 * [Khan Academy Profile](https://khanacademy.org/profile/TheBlueBoggle/)
 * [Replit (now inactive)](https://replit.com/@ProximaAtlas/)
+* [Linktree](https://linktr.ee/vismainair)
 
 
 ```
