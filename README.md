@@ -9,7 +9,7 @@ Here's some things I contribute to:
   * Take a look at my minified CSS normalizer or my pre-made stylesheets!
 * UX/UI-related projects
 
-I'm also working on a pub package to convert from vanity phone numbers to numeric and vice versa!
+I'm also working on a pub package to convert from vanity phone numbers to numeric and vice versa! [phonewords](https://pub.dev/packages/phonewords)
 
 ## Links
 * [Khan Academy Profile](https://khanacademy.org/profile/TheBlueBoggle/)
