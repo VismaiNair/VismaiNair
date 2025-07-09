@@ -2,12 +2,8 @@
 
 I'm a middle-school student based in the western part of the US. I occassionally gather up my strength and make a feeble attempt to code, but I have never succeeded.
 
-## Open-Source Contribution
-Here's some things I contribute to:
-* Anything that I can contribute to that is made by Google
-* Projects with lots of CSS
-  * Take a look at my minified CSS normalizer or my pre-made stylesheets!
-* UX/UI-related projects
+## Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VismaiNair)](https://github.com/VismaiNair/VismaiNair)
 
 I'm also working on a pub package to convert from vanity phone numbers to numeric and vice versa! [phonewords](https://pub.dev/packages/phonewords)
 
