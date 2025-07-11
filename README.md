@@ -5,7 +5,7 @@ I'm a middle-school student based in the western part of the US. I occassionally
 ## Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VismaiNair)](https://github.com/VismaiNair/VismaiNair)
 
-I'm also working on a pub package to convert from vanity phone numbers to numeric and vice versa! [phonewords](https://pub.dev/packages/phonewords)
+I'm also working on a package to convert from vanity phone numbers to numeric and vice versa! [phonewords](https://pub.dev/packages/phonewords) [gophonewords](https://pkg.go.dev/github.com/vismainair/gophonewords)
 
 ## Links
 * [Khan Academy Profile](https://khanacademy.org/profile/TheBlueBoggle/)
