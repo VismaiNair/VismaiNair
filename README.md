@@ -7,6 +7,7 @@ I'm a middle-school student based in the western part of the US. I occassionally
 
 I'm also working on a package to convert from vanity phone numbers to numeric and vice versa! [phonewords](https://pub.dev/packages/phonewords) [gophonewords](https://pkg.go.dev/github.com/vismainair/gophonewords)
 
+Also see [wasmate](github.com/vismainair/wasmate) for a Go WASM workflow tool - hot reload, initialization, wasm_exec.js copying, build wrapper etc.
 ## Links
 * [Khan Academy Profile](https://khanacademy.org/profile/TheBlueBoggle/)
 * [Replit (now inactive)](https://replit.com/@ProximaAtlas/)
