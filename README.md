@@ -9,7 +9,7 @@ I'm also working on a package to convert from vanity phone numbers to numeric an
 
 Also see [wasmate](github.com/vismainair/wasmate) for a Go WASM workflow tool - hot reload, initialization, wasm_exec.js copying, build wrapper etc.
 
-An NLP tool is in the works, stay tuned! (Should be out ~May '26)
+Working on a tool for competitive extemporaneous speech right now to be an alternative to Prepd and ExtempGenie but taking full advantage of current NSDA rules - should be out in December 2026.
 ## Links
 * [Khan Academy Profile](https://khanacademy.org/profile/TheBlueBoggle/)
 * [Replit (now inactive)](https://replit.com/@ProximaAtlas/)
