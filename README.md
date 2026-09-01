@@ -3,7 +3,7 @@
 I'm a student. I occassionally gather up my strength and make a feeble attempt to code, but I have never succeeded.
 
 ## Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VismaiNair)](https://github.com/VismaiNair/VismaiNair)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=VismaiNair&layout=donut&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=VismaiNair&layout=donut&langs_count=10&theme=transparent)
 
 I'm also working on a package to convert from vanity phone numbers to numeric and vice versa! [phonewords](https://pub.dev/packages/phonewords) [gophonewords](https://pkg.go.dev/github.com/vismainair/gophonewords)
 
