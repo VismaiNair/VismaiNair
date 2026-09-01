@@ -1,6 +1,6 @@
 # Hi, I'm Vismai (/'vɪs.mɑɪ/)👋
 
-I'm a middle-school student based in the western part of the US. I occassionally gather up my strength and make a feeble attempt to code, but I have never succeeded.
+I'm a student. I occassionally gather up my strength and make a feeble attempt to code, but I have never succeeded.
 
 ## Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VismaiNair)](https://github.com/VismaiNair/VismaiNair)
@@ -17,10 +17,13 @@ Working on a tool for competitive extemporaneous speech right now to be an alter
 * [Medium](https://medium.com/@vismai.nair)
 
 
-```
-while (isAlive == True) {
-  code();
-  learn();
+```go
+if isAlive == true {
+  programs, err := tryto.Code()
+  if err != nil {
+    return errors.New("I have failed... once again")
+  }
+  procrastinate()
 }
 ```
 
